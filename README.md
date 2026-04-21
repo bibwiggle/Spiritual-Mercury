@@ -16,6 +16,9 @@ The engineering challenge was spinning an outer gear while keeping the center st
 |--------|------|----------|
 | `blender/` | Blender | Aesthetic model — organic fluid forms |
 | `fusion360/` | Fusion 360 | Mechanical design — hubless ring structure |
-| `touchdesigner/` | TouchDesigner | Real-time interaction and visuals |
+| `touchdesigner/digital artifact study.tox` | TouchDesigner | Main project file |
+| `touchdesigner/clamp_math.tox` | TouchDesigner | Dependency by [Torin Blakensmith](https://github.com/torinmb) |
+| `touchdesigner/hand_tracking.tox` | TouchDesigner | Dependency by [Torin Blakensmith](https://github.com/torinmb) |
+| `touchdesigner/MediaPipe.tox` | TouchDesigner | Dependency by [Torin Blakensmith](https://github.com/torinmb) |
 
 > Large files (`.blend`, `.f3z`, `.tox`) are tracked with [Git LFS](https://git-lfs.com).
